@@ -22,6 +22,14 @@ A React.js web app from the INF.04 January 2025 exam. The app implements core re
     ```bash
    git clone https://github.com/KeneKbee/INF04_01-2025_ReactApp.git
     ```
+2. Change directory to project
+    ```bash
+   cd INF04_01-2025_ReactApp
+    ```
+2. Install node modules and libraries
+    ```bash
+   npm install
+    ```
 <br>
 <p align="center"><img src="https://i.imgur.com/xb5fsmG.png" alt="App Screenshot"></p>
 
